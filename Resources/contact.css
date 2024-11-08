@@ -1,0 +1,36 @@
+#main{
+    margin-left: 50px;
+    color: seashell;
+    background-color: black;
+}
+
+
+h1 {
+   font-size: 20px; 
+}
+
+.top{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    height: 69px;
+    width: 100%;
+    max-width: 900px;
+}
+
+ul li
+{
+    display: inline-block;
+    text-decoration: underline;
+    margin-inline: 2px;
+}
+
+.content{
+    max-width: 650px;
+}
+
+.icon{
+    max-width: 7%;
+    margin-inline: 10px;
+    background-color: black;
+}

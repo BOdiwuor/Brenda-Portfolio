@@ -1,0 +1,81 @@
+#main{
+    margin-left: 25px;
+    color: seashell;
+    background-color: black;
+    margin-right: 25px;
+
+}
+
+
+.top h1 {
+   font-size: 22px;
+   color:blueviolet;
+}
+
+.top{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    height: 69px;
+    width: 100%;
+    max-width: 900px;
+}
+
+ul li
+{
+    display: inline-block;
+    text-decoration: underline;
+    margin-inline: 2px;
+    
+}
+
+ul a{
+    color:blueviolet;
+}
+
+
+ul a:hover{
+    color:aqua;
+}
+
+
+.content{
+    max-width: 900px;
+
+}
+
+
+
+.pic{
+    max-width: 50%;
+    float:left;
+    margin-right: 5px;
+    
+   
+}
+
+.icon{
+    max-width: 7%;
+    margin-inline: 10px;
+    background-color: black;
+}
+
+button{
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    margin-inline: 5px;
+}
+
+button a{
+    text-decoration: none;
+
+}
+
+.change{
+    background-color: blueviolet;
+}
+
+
+
